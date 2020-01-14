@@ -1,2 +1,2 @@
 # Minimalistic-Discord-Theme
-A minimalistic discord dark theme.
+<div style="text-align:center"><img src="images/DiscordCanary_Vr78FZpqbG.png" /></div>
