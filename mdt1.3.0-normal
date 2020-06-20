@@ -1,0 +1,191 @@
+
+
+.theme-dark {
+    --header-primary: #fff;
+    --header-secondary: #b9bbbe;
+    --text-normal: #dcddde; /* Default text color */
+    --text-muted: #72767d; /* Channel Icons, Message text and some other shayte */
+    --text-link: #4E84A7; /* Link color */
+    --channels-default: #8e9297; /* Default text color of Channels and users */
+    --interactive-normal: #b9bbbe; /* Interactive Buttons */
+    --interactive-hover: #dcddde; /* Interactive Buttons Hover */
+    --interactive-active: #fff; /* Interactive Buttons Active */
+    --interactive-muted: #4f545c;
+    --background-primary: #333842;
+    --background-secondary: #21252B;
+    --background-tertiary: #1B1D23;
+    --background-accent: #4E84A7;
+    --background-floating: #1D2125;
+    --background-mobile-primary: #36393f;
+    --background-mobile-secondary: #2f3136;
+    --background-modifier-hover: #3C444C;
+    --background-modifier-active: #31363F;
+    --background-modifier-selected: #31363F;
+    --background-modifier-accent: hsla(0,0%, 100%, 0.0);
+    --elevation-low: 0 1px 0 rgba(4,4,5,0.2),0 1.5px 0 rgba(6,6,7,0.05),0 2px 0 rgba(4,4,5,0.05);
+    --elevation-high: 0 8px 16px rgba(0,0,0,0.24);
+    --logo-primary: #fff;
+    --guild-header-text-shadow: 0 1px 1px rgba(0,0,0,0.4);
+    --channeltextarea-background: #40444b;
+    --activity-card-background: #202225;
+    --textbox-markdown-syntax: #8e9297;
+    --deprecated-panel-background: #292b2f;
+    --deprecated-card-bg: rgba(32,34,37,0.6);
+    --deprecated-card-editable-bg: rgba(32,34,37,0.3);
+    --deprecated-store-bg: #36393f;
+    --deprecated-quickswitcher-input-background: #fff;
+    --deprecated-quickswitcher-input-placeholder: hsla(0,0%,100%,0.3);
+    --deprecated-text-input-bg: rgba(0,0,0,0.1);
+    --deprecated-text-input-border: rgba(0,0,0,03);
+    --deprecated-text-input-border-hover: #040405;
+    --deprecated-text-input-border-disabled: #202225;
+    --deprecated-text-input-prefix: #dcddde;
+}
+
+.panels-j1Uci_{
+	background-color: #4E84A7;
+}
+
+.scrollableContainer-2NUZem{
+	background-color: #444D56;
+  border-radius: 5px;
+}
+
+.reactions-1xb2Ex div:not(.reactionBtn-2na4rd):not(.reaction-1ELvT8):not(.reactionInner-rRPZdY):not(.reactionCount-2ddRoS):not(.reactionInner-rRPZdY){
+    border-top: 2px solid #282C34;
+    border-bottom: 2px solid #282C34;
+}
+
+.reactions-1xb2Ex{
+  border-left: 2px solid #282C34;
+}
+
+.reaction-1ELvT8 {
+  background-color: #21252B;
+  border-radius: 0px;
+  padding: 0 10px 0 0;
+  margin: 0px;
+}
+
+.reactions-1xb2Ex div.reactionBtn-2na4rd {
+  background-color: #282C34;
+  padding: 5px 10px 5px 10px;
+  margin: 0;
+  opacity: 255;
+}
+
+.reactions-1xb2Ex div.reactionBtn-2na4rd:hover svg{
+  filter: invert(49%) sepia(27%) saturate(750%) hue-rotate(160deg) brightness(93%) contrast(87%);
+}
+
+.scrollbarGhostHairline-1mSOM1{ /*Code blocks*/
+  border-radius: 0px;
+}
+
+.scrollbarGhostHairline-1mSOM1{ /*Code blocks default color*/
+}
+
+.hljs-addition, .hljs-keyword, .hljs-selector-tag {
+  color: #C678DD;
+}
+
+.hljs-attr, .hljs-attribute, .hljs-class .hljs-title, .hljs-template-variable, .hljs-type, .hljs-variable {
+  color: #61AFEF
+}
+
+
+
+.userLimit-64AFxe .wrapper-pZmgj4{
+  border-radius: 0;
+}
+
+.role-2irmRk {
+  border-radius: 0;
+}
+
+/*
+.base-3dtUhz{
+  margin-left: -100px;
+}
+
+.sidebar-2K8pFh{
+  padding-left: 28px;
+}
+
+.welcomeMessage-3_Mcht {
+  display: none;
+}
+
+.default-1VPH9n, .base-34jWEe{
+  display: none;
+}
+
+/*
+position: inherit;
+margin-top: -100px;
+margin-left: 100px;
+*/
+
+/*
+.wrapper-1Rf91z, .guilds-1SWlCJ{
+  position: relative;
+  background-color: red;
+  height: 100px;
+  width: 100px;
+}*/
+/*
+.scrollerWrap-2lJEkd, .firefoxFixScrollFlex-cnI2ix, .scrollerWrap-1IAIlv, .scrollerThemed-2oenus, .themeGhostHairline-DBD-2d{
+  position: relative;
+}
+
+.scroller-2FKFPG, .firefoxFixScrollFlex-cnI2ix, .systemPad-3UxEGl, .scroller-2TZvBN{
+  position: relative;
+}
+*
+.listItem-2P_4kh{
+  position: relative;
+  left: 40px;
+  top: -10px;
+  z-index: 10;
+  margin-top: -10px;
+}
+*/
+
+.tabBody-3YRQ8W {
+  background-color: #333842;
+}
+
+div.themedWithTrack-q8E3vB .scroller-2FKFPG {
+  margin-right: -20px;
+}
+
+.newMessagesBar-mujexs, .barBase-39XTcM {
+  border-radius: 0px;
+  border: solid 1px #202225;
+  margin-top: -4px;
+  transform: scale(0.92);
+}
+
+.bar-30k2ka, .unreadMentionsBar-1VrBNe, .mention-1f5kbO, .active-1SSsBb {
+  border-radius: 2px;
+  margin-left: -10px;
+}
+
+.roleCircle-3xAZ1j {
+  height: 5px;
+  width: 10px;
+  margin-right: 15px;
+  cursor: pointer;
+  border-radius: 0px;
+}
+
+.roleName-32vpEy {
+  margin-left: -10px;
+}
+
+.role-2irmRk {
+  max-width: 200px;
+  max-height: 25px;
+  border-width: 1px;
+  border-style: solid;
+}
